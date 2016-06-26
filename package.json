@@ -1,0 +1,25 @@
+{
+  "name": "bowling-challenge",
+  "version": "1.0.0",
+  "description": "bowling challenge in node",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apsaxena24/bowling-challenge.git"
+  },
+  "author": "Apoorva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apsaxena24/bowling-challenge/issues"
+  },
+  "homepage": "https://github.com/apsaxena24/bowling-challenge#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
